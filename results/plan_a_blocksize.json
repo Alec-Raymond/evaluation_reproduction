@@ -1,0 +1,1235 @@
+[
+  {
+    "block_size": 8,
+    "num_requests": 100,
+    "wall_time": 46.78816465099999,
+    "throughput_req_s": 2.1372926411180084,
+    "throughput_tok_s": 581.2153608256311,
+    "mean_norm_latency": 0.0905635730838591,
+    "p99_norm_latency": 0.23408070193804362,
+    "per_request": [
+      {
+        "latency": 11.04312252998352,
+        "output_tokens": 121
+      },
+      {
+        "latency": 46.65714907646179,
+        "output_tokens": 834
+      },
+      {
+        "latency": 13.470662117004395,
+        "output_tokens": 151
+      },
+      {
+        "latency": 26.35142159461975,
+        "output_tokens": 332
+      },
+      {
+        "latency": 27.385631799697876,
+        "output_tokens": 350
+      },
+      {
+        "latency": 18.656102418899536,
+        "output_tokens": 218
+      },
+      {
+        "latency": 22.840309381484985,
+        "output_tokens": 277
+      },
+      {
+        "latency": 6.666978120803833,
+        "output_tokens": 64
+      },
+      {
+        "latency": 22.696311473846436,
+        "output_tokens": 275
+      },
+      {
+        "latency": 30.128517389297485,
+        "output_tokens": 401
+      },
+      {
+        "latency": 5.9248082637786865,
+        "output_tokens": 54
+      },
+      {
+        "latency": 30.547964096069336,
+        "output_tokens": 409
+      },
+      {
+        "latency": 41.936702728271484,
+        "output_tokens": 687
+      },
+      {
+        "latency": 18.433682441711426,
+        "output_tokens": 215
+      },
+      {
+        "latency": 20.849721431732178,
+        "output_tokens": 249
+      },
+      {
+        "latency": 22.766880989074707,
+        "output_tokens": 276
+      },
+      {
+        "latency": 25.568374395370483,
+        "output_tokens": 319
+      },
+      {
+        "latency": 9.397525310516357,
+        "output_tokens": 100
+      },
+      {
+        "latency": 16.68890357017517,
+        "output_tokens": 191
+      },
+      {
+        "latency": 35.268611669540405,
+        "output_tokens": 511
+      },
+      {
+        "latency": 23.699111938476562,
+        "output_tokens": 290
+      },
+      {
+        "latency": 32.69337821006775,
+        "output_tokens": 454
+      },
+      {
+        "latency": 28.79878330230713,
+        "output_tokens": 376
+      },
+      {
+        "latency": 27.546220302581787,
+        "output_tokens": 353
+      },
+      {
+        "latency": 14.980845928192139,
+        "output_tokens": 170
+      },
+      {
+        "latency": 13.374805927276611,
+        "output_tokens": 150
+      },
+      {
+        "latency": 16.610219717025757,
+        "output_tokens": 190
+      },
+      {
+        "latency": 11.507853984832764,
+        "output_tokens": 127
+      },
+      {
+        "latency": 24.667494535446167,
+        "output_tokens": 305
+      },
+      {
+        "latency": 26.099324941635132,
+        "output_tokens": 328
+      },
+      {
+        "latency": 13.45544981956482,
+        "output_tokens": 151
+      },
+      {
+        "latency": 13.940346717834473,
+        "output_tokens": 157
+      },
+      {
+        "latency": 35.52950096130371,
+        "output_tokens": 517
+      },
+      {
+        "latency": 17.989569425582886,
+        "output_tokens": 209
+      },
+      {
+        "latency": 18.641241312026978,
+        "output_tokens": 218
+      },
+      {
+        "latency": 38.62642955780029,
+        "output_tokens": 594
+      },
+      {
+        "latency": 3.008795976638794,
+        "output_tokens": 13
+      },
+      {
+        "latency": 28.90021276473999,
+        "output_tokens": 378
+      },
+      {
+        "latency": 21.68741774559021,
+        "output_tokens": 261
+      },
+      {
+        "latency": 36.135286808013916,
+        "output_tokens": 531
+      },
+      {
+        "latency": 6.651911497116089,
+        "output_tokens": 64
+      },
+      {
+        "latency": 2.4746580123901367,
+        "output_tokens": 5
+      },
+      {
+        "latency": 16.604621171951294,
+        "output_tokens": 190
+      },
+      {
+        "latency": 22.53950047492981,
+        "output_tokens": 273
+      },
+      {
+        "latency": 9.536295890808105,
+        "output_tokens": 102
+      },
+      {
+        "latency": 3.4845988750457764,
+        "output_tokens": 20
+      },
+      {
+        "latency": 11.906890153884888,
+        "output_tokens": 132
+      },
+      {
+        "latency": 24.723825216293335,
+        "output_tokens": 306
+      },
+      {
+        "latency": 4.674797058105469,
+        "output_tokens": 37
+      },
+      {
+        "latency": 30.68635582923889,
+        "output_tokens": 412
+      },
+      {
+        "latency": 23.025660037994385,
+        "output_tokens": 280
+      },
+      {
+        "latency": 12.068099021911621,
+        "output_tokens": 134
+      },
+      {
+        "latency": 25.232332944869995,
+        "output_tokens": 314
+      },
+      {
+        "latency": 26.858708381652832,
+        "output_tokens": 341
+      },
+      {
+        "latency": 5.9050798416137695,
+        "output_tokens": 54
+      },
+      {
+        "latency": 6.055275917053223,
+        "output_tokens": 56
+      },
+      {
+        "latency": 5.0300068855285645,
+        "output_tokens": 42
+      },
+      {
+        "latency": 32.99792456626892,
+        "output_tokens": 461
+      },
+      {
+        "latency": 25.667961835861206,
+        "output_tokens": 321
+      },
+      {
+        "latency": 23.020864248275757,
+        "output_tokens": 280
+      },
+      {
+        "latency": 17.181076049804688,
+        "output_tokens": 198
+      },
+      {
+        "latency": 44.467583894729614,
+        "output_tokens": 764
+      },
+      {
+        "latency": 13.682344913482666,
+        "output_tokens": 154
+      },
+      {
+        "latency": 18.98019504547119,
+        "output_tokens": 223
+      },
+      {
+        "latency": 21.392186880111694,
+        "output_tokens": 257
+      },
+      {
+        "latency": 25.482951641082764,
+        "output_tokens": 318
+      },
+      {
+        "latency": 26.083731651306152,
+        "output_tokens": 328
+      },
+      {
+        "latency": 19.970823049545288,
+        "output_tokens": 237
+      },
+      {
+        "latency": 18.26355814933777,
+        "output_tokens": 213
+      },
+      {
+        "latency": 40.2722692489624,
+        "output_tokens": 640
+      },
+      {
+        "latency": 12.222807168960571,
+        "output_tokens": 136
+      },
+      {
+        "latency": 36.0359787940979,
+        "output_tokens": 529
+      },
+      {
+        "latency": 17.32049584388733,
+        "output_tokens": 200
+      },
+      {
+        "latency": 43.69100785255432,
+        "output_tokens": 740
+      },
+      {
+        "latency": 16.88376021385193,
+        "output_tokens": 194
+      },
+      {
+        "latency": 9.445494413375854,
+        "output_tokens": 101
+      },
+      {
+        "latency": 38.53022646903992,
+        "output_tokens": 592
+      },
+      {
+        "latency": 4.6587114334106445,
+        "output_tokens": 37
+      },
+      {
+        "latency": 8.27795672416687,
+        "output_tokens": 86
+      },
+      {
+        "latency": 24.05687689781189,
+        "output_tokens": 296
+      },
+      {
+        "latency": 11.239742279052734,
+        "output_tokens": 124
+      },
+      {
+        "latency": 27.46299457550049,
+        "output_tokens": 352
+      },
+      {
+        "latency": 26.49251437187195,
+        "output_tokens": 335
+      },
+      {
+        "latency": 22.8733811378479,
+        "output_tokens": 278
+      },
+      {
+        "latency": 28.33367919921875,
+        "output_tokens": 368
+      },
+      {
+        "latency": 16.80190634727478,
+        "output_tokens": 193
+      },
+      {
+        "latency": 46.743419885635376,
+        "output_tokens": 838
+      },
+      {
+        "latency": 8.35362958908081,
+        "output_tokens": 87
+      },
+      {
+        "latency": 19.749852418899536,
+        "output_tokens": 234
+      },
+      {
+        "latency": 20.669598817825317,
+        "output_tokens": 247
+      },
+      {
+        "latency": 16.57971954345703,
+        "output_tokens": 190
+      },
+      {
+        "latency": 14.312899112701416,
+        "output_tokens": 162
+      },
+      {
+        "latency": 7.588600158691406,
+        "output_tokens": 77
+      },
+      {
+        "latency": 6.40427303314209,
+        "output_tokens": 61
+      },
+      {
+        "latency": 31.180851697921753,
+        "output_tokens": 422
+      },
+      {
+        "latency": 16.328053951263428,
+        "output_tokens": 187
+      },
+      {
+        "latency": 37.4776725769043,
+        "output_tokens": 565
+      },
+      {
+        "latency": 26.72125816345215,
+        "output_tokens": 339
+      },
+      {
+        "latency": 12.769871950149536,
+        "output_tokens": 143
+      },
+      {
+        "latency": 10.835815668106079,
+        "output_tokens": 119
+      }
+    ]
+  },
+  {
+    "block_size": 16,
+    "num_requests": 100,
+    "wall_time": 44.03242331199999,
+    "throughput_req_s": 2.271053748085388,
+    "throughput_tok_s": 617.5903562543405,
+    "mean_norm_latency": 0.08727266485419463,
+    "p99_norm_latency": 0.2359812338535616,
+    "per_request": [
+      {
+        "latency": 10.826227188110352,
+        "output_tokens": 121
+      },
+      {
+        "latency": 43.90078687667847,
+        "output_tokens": 834
+      },
+      {
+        "latency": 13.05512523651123,
+        "output_tokens": 151
+      },
+      {
+        "latency": 24.741344451904297,
+        "output_tokens": 332
+      },
+      {
+        "latency": 25.68226933479309,
+        "output_tokens": 350
+      },
+      {
+        "latency": 17.795064449310303,
+        "output_tokens": 218
+      },
+      {
+        "latency": 21.541720867156982,
+        "output_tokens": 277
+      },
+      {
+        "latency": 6.637594223022461,
+        "output_tokens": 64
+      },
+      {
+        "latency": 21.417601823806763,
+        "output_tokens": 275
+      },
+      {
+        "latency": 28.1725435256958,
+        "output_tokens": 401
+      },
+      {
+        "latency": 5.919478178024292,
+        "output_tokens": 54
+      },
+      {
+        "latency": 28.553240537643433,
+        "output_tokens": 409
+      },
+      {
+        "latency": 39.30463123321533,
+        "output_tokens": 687
+      },
+      {
+        "latency": 17.597344636917114,
+        "output_tokens": 215
+      },
+      {
+        "latency": 19.779648065567017,
+        "output_tokens": 249
+      },
+      {
+        "latency": 21.47703719139099,
+        "output_tokens": 276
+      },
+      {
+        "latency": 24.024800777435303,
+        "output_tokens": 319
+      },
+      {
+        "latency": 9.257319211959839,
+        "output_tokens": 100
+      },
+      {
+        "latency": 16.004794359207153,
+        "output_tokens": 191
+      },
+      {
+        "latency": 32.94933485984802,
+        "output_tokens": 511
+      },
+      {
+        "latency": 22.313158750534058,
+        "output_tokens": 290
+      },
+      {
+        "latency": 30.520607233047485,
+        "output_tokens": 454
+      },
+      {
+        "latency": 26.968336820602417,
+        "output_tokens": 376
+      },
+      {
+        "latency": 25.823829889297485,
+        "output_tokens": 353
+      },
+      {
+        "latency": 14.448087215423584,
+        "output_tokens": 170
+      },
+      {
+        "latency": 12.964004278182983,
+        "output_tokens": 150
+      },
+      {
+        "latency": 15.931859970092773,
+        "output_tokens": 190
+      },
+      {
+        "latency": 11.255550622940063,
+        "output_tokens": 127
+      },
+      {
+        "latency": 23.20141100883484,
+        "output_tokens": 305
+      },
+      {
+        "latency": 24.513784408569336,
+        "output_tokens": 328
+      },
+      {
+        "latency": 13.040520906448364,
+        "output_tokens": 151
+      },
+      {
+        "latency": 13.48534893989563,
+        "output_tokens": 157
+      },
+      {
+        "latency": 33.197563886642456,
+        "output_tokens": 517
+      },
+      {
+        "latency": 17.191291093826294,
+        "output_tokens": 209
+      },
+      {
+        "latency": 17.780900955200195,
+        "output_tokens": 218
+      },
+      {
+        "latency": 36.11021137237549,
+        "output_tokens": 594
+      },
+      {
+        "latency": 3.033208131790161,
+        "output_tokens": 13
+      },
+      {
+        "latency": 27.05953359603882,
+        "output_tokens": 378
+      },
+      {
+        "latency": 20.529018878936768,
+        "output_tokens": 261
+      },
+      {
+        "latency": 33.76224613189697,
+        "output_tokens": 531
+      },
+      {
+        "latency": 6.623170852661133,
+        "output_tokens": 64
+      },
+      {
+        "latency": 2.4953842163085938,
+        "output_tokens": 5
+      },
+      {
+        "latency": 15.926609992980957,
+        "output_tokens": 190
+      },
+      {
+        "latency": 21.276207208633423,
+        "output_tokens": 273
+      },
+      {
+        "latency": 9.389686584472656,
+        "output_tokens": 102
+      },
+      {
+        "latency": 3.511842966079712,
+        "output_tokens": 20
+      },
+      {
+        "latency": 11.619089365005493,
+        "output_tokens": 132
+      },
+      {
+        "latency": 23.254924535751343,
+        "output_tokens": 306
+      },
+      {
+        "latency": 4.697282075881958,
+        "output_tokens": 37
+      },
+      {
+        "latency": 28.67961859703064,
+        "output_tokens": 412
+      },
+      {
+        "latency": 21.70048713684082,
+        "output_tokens": 280
+      },
+      {
+        "latency": 11.769400596618652,
+        "output_tokens": 134
+      },
+      {
+        "latency": 23.71769690513611,
+        "output_tokens": 314
+      },
+      {
+        "latency": 25.196273803710938,
+        "output_tokens": 341
+      },
+      {
+        "latency": 5.900106430053711,
+        "output_tokens": 54
+      },
+      {
+        "latency": 6.042809247970581,
+        "output_tokens": 56
+      },
+      {
+        "latency": 5.045907258987427,
+        "output_tokens": 42
+      },
+      {
+        "latency": 30.80532145500183,
+        "output_tokens": 461
+      },
+      {
+        "latency": 24.116803407669067,
+        "output_tokens": 321
+      },
+      {
+        "latency": 21.695655584335327,
+        "output_tokens": 280
+      },
+      {
+        "latency": 16.45350980758667,
+        "output_tokens": 198
+      },
+      {
+        "latency": 41.7534396648407,
+        "output_tokens": 764
+      },
+      {
+        "latency": 13.247544288635254,
+        "output_tokens": 154
+      },
+      {
+        "latency": 18.09171485900879,
+        "output_tokens": 223
+      },
+      {
+        "latency": 20.259366750717163,
+        "output_tokens": 257
+      },
+      {
+        "latency": 23.944847345352173,
+        "output_tokens": 318
+      },
+      {
+        "latency": 24.497958660125732,
+        "output_tokens": 328
+      },
+      {
+        "latency": 18.992565870285034,
+        "output_tokens": 237
+      },
+      {
+        "latency": 17.440673112869263,
+        "output_tokens": 213
+      },
+      {
+        "latency": 37.69421195983887,
+        "output_tokens": 640
+      },
+      {
+        "latency": 11.907065153121948,
+        "output_tokens": 136
+      },
+      {
+        "latency": 33.66965198516846,
+        "output_tokens": 529
+      },
+      {
+        "latency": 16.582593202590942,
+        "output_tokens": 200
+      },
+      {
+        "latency": 40.997166872024536,
+        "output_tokens": 740
+      },
+      {
+        "latency": 16.183076858520508,
+        "output_tokens": 194
+      },
+      {
+        "latency": 9.3052818775177,
+        "output_tokens": 101
+      },
+      {
+        "latency": 36.01777696609497,
+        "output_tokens": 592
+      },
+      {
+        "latency": 4.681683540344238,
+        "output_tokens": 37
+      },
+      {
+        "latency": 8.193642377853394,
+        "output_tokens": 86
+      },
+      {
+        "latency": 22.646098375320435,
+        "output_tokens": 296
+      },
+      {
+        "latency": 11.009232521057129,
+        "output_tokens": 124
+      },
+      {
+        "latency": 25.747732400894165,
+        "output_tokens": 352
+      },
+      {
+        "latency": 24.864805221557617,
+        "output_tokens": 335
+      },
+      {
+        "latency": 21.56576919555664,
+        "output_tokens": 278
+      },
+      {
+        "latency": 26.54296112060547,
+        "output_tokens": 368
+      },
+      {
+        "latency": 16.110325574874878,
+        "output_tokens": 193
+      },
+      {
+        "latency": 43.988712310791016,
+        "output_tokens": 838
+      },
+      {
+        "latency": 8.263940334320068,
+        "output_tokens": 87
+      },
+      {
+        "latency": 18.787088632583618,
+        "output_tokens": 234
+      },
+      {
+        "latency": 19.617458820343018,
+        "output_tokens": 247
+      },
+      {
+        "latency": 15.903311729431152,
+        "output_tokens": 190
+      },
+      {
+        "latency": 13.825815200805664,
+        "output_tokens": 162
+      },
+      {
+        "latency": 7.5283355712890625,
+        "output_tokens": 77
+      },
+      {
+        "latency": 6.384646892547607,
+        "output_tokens": 61
+      },
+      {
+        "latency": 29.094326972961426,
+        "output_tokens": 422
+      },
+      {
+        "latency": 15.67380404472351,
+        "output_tokens": 187
+      },
+      {
+        "latency": 35.01339244842529,
+        "output_tokens": 565
+      },
+      {
+        "latency": 25.070712089538574,
+        "output_tokens": 339
+      },
+      {
+        "latency": 12.409765005111694,
+        "output_tokens": 143
+      },
+      {
+        "latency": 10.625420808792114,
+        "output_tokens": 119
+      }
+    ]
+  },
+  {
+    "block_size": 32,
+    "num_requests": 100,
+    "wall_time": 44.40347340799963,
+    "throughput_req_s": 2.2520760725440057,
+    "throughput_tok_s": 612.4295671676169,
+    "mean_norm_latency": 0.08866116331777679,
+    "p99_norm_latency": 0.23775069680580865,
+    "per_request": [
+      {
+        "latency": 10.988435983657837,
+        "output_tokens": 121
+      },
+      {
+        "latency": 44.280768394470215,
+        "output_tokens": 834
+      },
+      {
+        "latency": 13.27702021598816,
+        "output_tokens": 151
+      },
+      {
+        "latency": 25.246466875076294,
+        "output_tokens": 332
+      },
+      {
+        "latency": 26.196773052215576,
+        "output_tokens": 350
+      },
+      {
+        "latency": 18.121078491210938,
+        "output_tokens": 218
+      },
+      {
+        "latency": 21.98623275756836,
+        "output_tokens": 277
+      },
+      {
+        "latency": 6.731800317764282,
+        "output_tokens": 64
+      },
+      {
+        "latency": 21.855143547058105,
+        "output_tokens": 275
+      },
+      {
+        "latency": 28.719802379608154,
+        "output_tokens": 401
+      },
+      {
+        "latency": 5.995919942855835,
+        "output_tokens": 54
+      },
+      {
+        "latency": 29.10331416130066,
+        "output_tokens": 409
+      },
+      {
+        "latency": 39.727421283721924,
+        "output_tokens": 687
+      },
+      {
+        "latency": 17.91755771636963,
+        "output_tokens": 215
+      },
+      {
+        "latency": 20.162020921707153,
+        "output_tokens": 249
+      },
+      {
+        "latency": 21.91853618621826,
+        "output_tokens": 276
+      },
+      {
+        "latency": 24.522619485855103,
+        "output_tokens": 319
+      },
+      {
+        "latency": 9.408355951309204,
+        "output_tokens": 100
+      },
+      {
+        "latency": 16.289342641830444,
+        "output_tokens": 191
+      },
+      {
+        "latency": 33.43412947654724,
+        "output_tokens": 511
+      },
+      {
+        "latency": 22.76491951942444,
+        "output_tokens": 290
+      },
+      {
+        "latency": 31.043891191482544,
+        "output_tokens": 454
+      },
+      {
+        "latency": 27.497368097305298,
+        "output_tokens": 376
+      },
+      {
+        "latency": 26.342369556427002,
+        "output_tokens": 353
+      },
+      {
+        "latency": 14.690169334411621,
+        "output_tokens": 170
+      },
+      {
+        "latency": 13.185451984405518,
+        "output_tokens": 150
+      },
+      {
+        "latency": 16.21518063545227,
+        "output_tokens": 190
+      },
+      {
+        "latency": 11.433684349060059,
+        "output_tokens": 127
+      },
+      {
+        "latency": 23.66895031929016,
+        "output_tokens": 305
+      },
+      {
+        "latency": 25.01692008972168,
+        "output_tokens": 328
+      },
+      {
+        "latency": 13.262266635894775,
+        "output_tokens": 151
+      },
+      {
+        "latency": 13.718675136566162,
+        "output_tokens": 157
+      },
+      {
+        "latency": 33.6739559173584,
+        "output_tokens": 517
+      },
+      {
+        "latency": 17.50404453277588,
+        "output_tokens": 209
+      },
+      {
+        "latency": 18.106766939163208,
+        "output_tokens": 218
+      },
+      {
+        "latency": 36.56341099739075,
+        "output_tokens": 594
+      },
+      {
+        "latency": 3.05598521232605,
+        "output_tokens": 13
+      },
+      {
+        "latency": 27.592701196670532,
+        "output_tokens": 378
+      },
+      {
+        "latency": 20.934781312942505,
+        "output_tokens": 261
+      },
+      {
+        "latency": 34.23625111579895,
+        "output_tokens": 531
+      },
+      {
+        "latency": 6.717464208602905,
+        "output_tokens": 64
+      },
+      {
+        "latency": 2.5128345489501953,
+        "output_tokens": 5
+      },
+      {
+        "latency": 16.210197925567627,
+        "output_tokens": 190
+      },
+      {
+        "latency": 21.709057331085205,
+        "output_tokens": 273
+      },
+      {
+        "latency": 9.546709299087524,
+        "output_tokens": 102
+      },
+      {
+        "latency": 3.535024404525757,
+        "output_tokens": 20
+      },
+      {
+        "latency": 11.803470611572266,
+        "output_tokens": 132
+      },
+      {
+        "latency": 23.72361159324646,
+        "output_tokens": 306
+      },
+      {
+        "latency": 4.7446675300598145,
+        "output_tokens": 37
+      },
+      {
+        "latency": 29.227903604507446,
+        "output_tokens": 412
+      },
+      {
+        "latency": 22.149861574172974,
+        "output_tokens": 280
+      },
+      {
+        "latency": 11.953799962997437,
+        "output_tokens": 134
+      },
+      {
+        "latency": 24.20231580734253,
+        "output_tokens": 314
+      },
+      {
+        "latency": 25.706029891967773,
+        "output_tokens": 341
+      },
+      {
+        "latency": 5.976318120956421,
+        "output_tokens": 54
+      },
+      {
+        "latency": 6.121035099029541,
+        "output_tokens": 56
+      },
+      {
+        "latency": 5.097975015640259,
+        "output_tokens": 42
+      },
+      {
+        "latency": 31.327764749526978,
+        "output_tokens": 461
+      },
+      {
+        "latency": 24.617434978485107,
+        "output_tokens": 321
+      },
+      {
+        "latency": 22.14481544494629,
+        "output_tokens": 280
+      },
+      {
+        "latency": 16.74873375892639,
+        "output_tokens": 198
+      },
+      {
+        "latency": 42.16189932823181,
+        "output_tokens": 764
+      },
+      {
+        "latency": 13.476040840148926,
+        "output_tokens": 154
+      },
+      {
+        "latency": 18.427032232284546,
+        "output_tokens": 223
+      },
+      {
+        "latency": 20.661638021469116,
+        "output_tokens": 257
+      },
+      {
+        "latency": 24.4381320476532,
+        "output_tokens": 318
+      },
+      {
+        "latency": 25.00128173828125,
+        "output_tokens": 328
+      },
+      {
+        "latency": 19.348145723342896,
+        "output_tokens": 237
+      },
+      {
+        "latency": 17.7598557472229,
+        "output_tokens": 213
+      },
+      {
+        "latency": 38.13088512420654,
+        "output_tokens": 640
+      },
+      {
+        "latency": 12.095627546310425,
+        "output_tokens": 136
+      },
+      {
+        "latency": 34.1430926322937,
+        "output_tokens": 529
+      },
+      {
+        "latency": 16.875630140304565,
+        "output_tokens": 200
+      },
+      {
+        "latency": 41.41039800643921,
+        "output_tokens": 740
+      },
+      {
+        "latency": 16.47117304801941,
+        "output_tokens": 194
+      },
+      {
+        "latency": 9.455983877182007,
+        "output_tokens": 101
+      },
+      {
+        "latency": 36.47065711021423,
+        "output_tokens": 592
+      },
+      {
+        "latency": 4.7283546924591064,
+        "output_tokens": 37
+      },
+      {
+        "latency": 8.32010006904602,
+        "output_tokens": 86
+      },
+      {
+        "latency": 23.098631381988525,
+        "output_tokens": 296
+      },
+      {
+        "latency": 11.180258750915527,
+        "output_tokens": 124
+      },
+      {
+        "latency": 26.263597011566162,
+        "output_tokens": 352
+      },
+      {
+        "latency": 25.370885848999023,
+        "output_tokens": 335
+      },
+      {
+        "latency": 22.011605978012085,
+        "output_tokens": 278
+      },
+      {
+        "latency": 27.065889358520508,
+        "output_tokens": 368
+      },
+      {
+        "latency": 16.395721912384033,
+        "output_tokens": 193
+      },
+      {
+        "latency": 44.358816385269165,
+        "output_tokens": 838
+      },
+      {
+        "latency": 8.392331838607788,
+        "output_tokens": 87
+      },
+      {
+        "latency": 19.139288187026978,
+        "output_tokens": 234
+      },
+      {
+        "latency": 19.99515175819397,
+        "output_tokens": 247
+      },
+      {
+        "latency": 16.185805082321167,
+        "output_tokens": 190
+      },
+      {
+        "latency": 14.061829805374146,
+        "output_tokens": 162
+      },
+      {
+        "latency": 7.647409677505493,
+        "output_tokens": 77
+      },
+      {
+        "latency": 6.470637798309326,
+        "output_tokens": 61
+      },
+      {
+        "latency": 29.637579679489136,
+        "output_tokens": 422
+      },
+      {
+        "latency": 15.947413444519043,
+        "output_tokens": 187
+      },
+      {
+        "latency": 35.47291398048401,
+        "output_tokens": 565
+      },
+      {
+        "latency": 25.576131582260132,
+        "output_tokens": 339
+      },
+      {
+        "latency": 12.616400718688965,
+        "output_tokens": 143
+      },
+      {
+        "latency": 10.78724217414856,
+        "output_tokens": 119
+      }
+    ]
+  }
+]

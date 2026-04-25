@@ -1,0 +1,7 @@
+# Pinned for Colab T4. See DECISIONS.md for rationale.
+# Install via the Colab cell block in README.md, not `pip install -r`.
+vllm==0.6.4.post1
+transformers==4.45.2
+huggingface_hub==0.25.2
+numpy
+pandas
